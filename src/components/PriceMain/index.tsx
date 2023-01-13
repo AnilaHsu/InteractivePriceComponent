@@ -56,11 +56,11 @@ function PricingMain({
         </div>
       </div>
       <div className="main-bottom">
-        <div className="main-features">
-          <span className="feature">Unlimited websites</span>
-          <span className="feature">100% data ownership</span>
-          <span className="feature">Email reports</span>
-        </div>
+        <ul className="main-features">
+          <li className="feature">Unlimited websites</li>
+          <li className="feature">100% data ownership</li>
+          <li className="feature">Email reports</li>
+        </ul>
         <button className="main-button" onClick={onClickTrail}>
           Start my trial
         </button>
