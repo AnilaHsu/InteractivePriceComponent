@@ -136,11 +136,19 @@ input:checked + .toggle {
 .main-features {
   display: flex;
   flex-direction: column;
+  padding: 0;
 }
 
 .feature {
   margin: 3px;
   font-size: 10px;
+  list-style: none;
+}
+
+
+.feature::before {
+    content: url(../../asset/icon-check.svg);
+    margin: 0 6px;
 }
 
 .main-button {
