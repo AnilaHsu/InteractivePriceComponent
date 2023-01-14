@@ -3,12 +3,16 @@
   flex-direction: column;
   align-items: center;
   height: 100%;
-  margin: 100px;
+  margin: 80px;
+  background-image: url(../src/asset/pattern-circles.svg);
+  background-repeat: no-repeat;
+  background-position-x: center;
 }
 
 .App-title {
   margin: 10px;
   color: #3d3d3d;
+  text-align: center;
 }
 
 .App-sub-title {

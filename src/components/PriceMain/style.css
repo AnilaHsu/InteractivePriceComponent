@@ -9,6 +9,7 @@
   cursor: pointer;
   max-width: 450px;
   min-width: 336px;
+  box-shadow: 3px 5px 10px 1px #e6e6e6;
 }
 
 .main-top {
@@ -46,8 +47,26 @@
   height: 25px;
   border-radius: 50px;
   background-color: #0fd9c8;
-  box-shadow: 0px 15px 16px 3px #adf2eb;
+  box-shadow: 0px 10px 16px 3px #adf2eb;
 }
+
+.slider::-ms-thumb {
+    -webkit-appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: #0fd9c8;
+    box-shadow: 0px 10px 16px 3px #adf2eb;
+}
+
+.slider::-moz-range-thumb {
+    -webkit-appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: #0fd9c8;
+    box-shadow: 0px 10px 16px 3px #adf2eb;
+  }
 
 .main-switch {
   padding: 6px;
