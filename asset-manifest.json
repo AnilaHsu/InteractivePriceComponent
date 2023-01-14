@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/InteractivePriceComponent/static/css/main.e63f8e4b.css",
+    "main.js": "/InteractivePriceComponent/static/js/main.d7f8f251.js",
+    "static/js/787.0e04715a.chunk.js": "/InteractivePriceComponent/static/js/787.0e04715a.chunk.js",
+    "index.html": "/InteractivePriceComponent/index.html",
+    "static/media/pattern-circles.svg": "/InteractivePriceComponent/static/media/pattern-circles.9f6ed14bb3b0084b05a9.svg",
+    "static/media/bg-pattern.svg": "/InteractivePriceComponent/static/media/bg-pattern.76d3fa7ddce078ad96b5.svg",
+    "static/media/icon-check.svg": "/InteractivePriceComponent/static/media/icon-check.83c38a48815855ecc2d7.svg",
+    "main.e63f8e4b.css.map": "/InteractivePriceComponent/static/css/main.e63f8e4b.css.map",
+    "main.d7f8f251.js.map": "/InteractivePriceComponent/static/js/main.d7f8f251.js.map",
+    "787.0e04715a.chunk.js.map": "/InteractivePriceComponent/static/js/787.0e04715a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63f8e4b.css",
+    "static/js/main.d7f8f251.js"
+  ]
+}
