@@ -50,3 +50,7 @@ npm start
 - CSS custom properties
 - Mobile first workflow
 - [React](https://reactjs.org/) - JS library
+- [ESLint](https://github.com/eslint/eslint) - JS tool
+- [Prettier](https://github.com/prettier/prettier) - Code formatter
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+
