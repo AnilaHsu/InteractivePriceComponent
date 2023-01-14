@@ -14,11 +14,16 @@
 
 <h4 align="center">Desktop</h4>
 <p align="center" width="100%">
-  <img align="center" src="./src/image/desktop.jpg" alt="desktop" style="width:1000px;" />
+  <kbd>
+    <img align="center" src="./src/image/desktop.jpg" alt="desktop" style="width:1000px;" />
+  <kbd>
 </p>
 <h4 align="center">Mobile</h4>
 <p align="center" width="100%">
-  <img align="center" src="./src/image/mobile.jpg" alt="mobile" style="width:300px;" />
+  <kbd>
+    <img align="center" src="./src/image/mobile1.jpg" alt="mobile" style="width:300px;" />
+    <img align="center" src="./src/image/mobile1.jpg" alt="mobile" style="width:300px;" />
+  <kbd>
 </p>
 
 ### App Links
