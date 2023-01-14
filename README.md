@@ -21,8 +21,8 @@
 <h4 align="center">Mobile</h4>
 <p align="center" width="100%">
   <kbd>
-    <img align="center" src="./src/image/mobile1.jpg" alt="mobile" style="width:300px;" />
     <img align="center" src="./src/image/mobile2.jpg" alt="mobile" style="width:300px;" />
+    <img align="center" src="./src/image/mobile1.jpg" alt="mobile" style="width:300px;" />
   <kbd>
 </p>
 
