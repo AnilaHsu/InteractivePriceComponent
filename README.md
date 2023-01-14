@@ -26,7 +26,7 @@
   <kbd>
 </p>
 
-### App Links
+### App Link
 
 - Live Site URL: [InteractivePriceComponent](https://anilahsu.github.io/InteractivePriceComponent/)
 
