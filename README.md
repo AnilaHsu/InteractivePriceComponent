@@ -14,15 +14,15 @@
 - デバイスの画面サイズに応じて、アプリの最適なレイアウトを表示します。
 - スライダーとトグルを使用して、さまざまなページビュー数の価格を表示します。
 
-### App Screenshot | アプリのスクリーンショット
+### App Screenshot
 
-<h4 align="center">Desktop</h4>
+<h4 align="center">Desktop・デスクトップ</h4>
 <p align="center" width="100%">
   <kbd>
     <img align="center" src="./src/image/desktop.jpg" alt="desktop" style="width:1000px;" />
   <kbd>
 </p>
-<h4 align="center">Mobile</h4>
+<h4 align="center">Mobile・モバイル</h4>
 <p align="center" width="100%">
   <kbd>
     <img align="center" src="./src/image/mobile2.jpg" alt="mobile" style="width:300px;" />
@@ -30,7 +30,7 @@
   <kbd>
 </p>
 
-### App Link | アプリのリンク
+### App Link
 
 - Live Site URL: [InteractivePriceComponent](https://anilahsu.github.io/InteractivePriceComponent/)
 
