@@ -2,15 +2,19 @@
 <h1 align="center"> InteractivePriceComponent </h1>
 
 <p align="center">This is an Interactive pricing component challenge on <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">Frontend Mentor</a>.
+<p align="center">これは <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">フロントエンド メンター</a> のインタラクティブな価格設定コンポーネントのチャレンジです。
 </p>
 
-## Overview
+## Overview | 概要
 ### The challenge, users are able to:
-
 - View the optimal layout for the app depending on their device's screen size
 - Use the slider and toggle to see prices for different page view numbers
 
-### App Screenshot
+### チャレンジ、ユーザーは次のことができます。
+- デバイスの画面サイズに応じて、アプリの最適なレイアウトを表示します。
+- スライダーとトグルを使用して、さまざまなページビュー数の価格を表示します。
+
+### App Screenshot | アプリのスクリーンショット
 
 <h4 align="center">Desktop</h4>
 <p align="center" width="100%">
@@ -26,12 +30,12 @@
   <kbd>
 </p>
 
-### App Link
+### App Link | アプリのリンク
 
 - Live Site URL: [InteractivePriceComponent](https://anilahsu.github.io/InteractivePriceComponent/)
 
 
-## Useage
+## Useage | 用途
 
 - Install all modules listed as dependencies in package.json.
 
@@ -44,7 +48,7 @@ npm i
 npm start
 ```` 
 
-## Tech Stacks
+## Tech Stacks | 技術スタック
 
 - Semantic HTML5 markup
 - CSS custom properties
