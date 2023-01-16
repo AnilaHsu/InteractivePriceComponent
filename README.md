@@ -52,7 +52,7 @@ npm start
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Mobile first workflow
+- [TypeScript](https://github.com/microsoft/TypeScript) - JS with syntax for types.
 - [React](https://reactjs.org/) - JS library
 - [ESLint](https://github.com/eslint/eslint) - JS tool
 - [Prettier](https://github.com/prettier/prettier) - Code formatter
