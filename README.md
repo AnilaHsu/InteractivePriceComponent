@@ -7,14 +7,15 @@
 
 ## Overview | 概要
 ### The challenge, users are able to:
+- View the optimal layout for the app depending on the device's screen size.
 - Use a slider to see prices for different page view numbers.
 - Use the toggle to switch monthly billing or yearly billing, the yearly billing will have a 25% discount on the price.
-- View the optimal layout for the app depending on the device's screen size.
 
 ### チャレンジ、ユーザーは次のことができます。
+- デバイスの画面サイズに応じて、アプリの最適なレイアウトを表示します。
 - スライダーを使用して、さまざまなページ ビュー数の価格を確認します。
 - トグルを使用して、月次請求または年次請求を切り替えます。年次請求では、価格が 25% 割引になります。
-- デバイスの画面サイズに応じて、アプリの最適なレイアウトを表示します。
+
 
 ### App Screenshot
 
