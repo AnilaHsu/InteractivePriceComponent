@@ -7,12 +7,14 @@
 
 ## Overview | 概要
 ### The challenge, users are able to:
-- View the optimal layout for the app depending on their device's screen size
-- Use the slider and toggle to see prices for different page view numbers
+- Use a slider to see prices for different page view numbers.
+- Use the toggle to switch monthly billing or yearly billing, the yearly billing will have a 25% discount on the price.
+- View the optimal layout for the app depending on the device's screen size.
 
 ### チャレンジ、ユーザーは次のことができます。
+- スライダーを使用して、さまざまなページ ビュー数の価格を確認します。
+- トグルを使用して、月次請求または年次請求を切り替えます。年次請求では、価格が 25% 割引になります。
 - デバイスの画面サイズに応じて、アプリの最適なレイアウトを表示します。
-- スライダーとトグルを使用して、さまざまなページビュー数の価格を表示します。
 
 ### App Screenshot
 
@@ -52,9 +54,9 @@ npm start
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [TypeScript](https://github.com/microsoft/TypeScript) - JS with syntax for types.
-- [React](https://reactjs.org/) - JS library
-- [ESLint](https://github.com/eslint/eslint) - JS tool
-- [Prettier](https://github.com/prettier/prettier) - Code formatter
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [ReactJS](https://reactjs.org/) 
+- [ESLint](https://github.com/eslint/eslint)
+- [Prettier](https://github.com/prettier/prettier)
 - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 
