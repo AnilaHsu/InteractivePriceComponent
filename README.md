@@ -1,5 +1,5 @@
 
-<h1 align="center"> InteractivePriceComponent </h1>
+<h1 align="center"><a href="https://anilahsu.github.io/InteractivePriceComponent/">InteractivePriceComponent</a></h1>
 
 <p align="center">This is an Interactive pricing component challenge on <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">Frontend Mentor</a>.
 <p align="center">これは <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">フロントエンド メンター</a> のインタラクティブな価格設定コンポーネントのチャレンジです。
