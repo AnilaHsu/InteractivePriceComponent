@@ -22,14 +22,15 @@
 <h4 align="center">Desktop・デスクトップ</h4>
 <p align="center" width="100%">
   <kbd>
-    <img align="center" src="./src/image/desktop.jpg" alt="desktop" style="width:1000px;" />
+    <img align="center" src="./src/image/desktop1.jpg" alt="desktop" style="width:1000px;" />
+    <img align="center" src="./src/image/desktop2.jpg" alt="desktop" style="width:1000px;" />
   <kbd>
 </p>
 <h4 align="center">Mobile・モバイル</h4>
 <p align="center" width="100%">
   <kbd>
-    <img align="center" src="./src/image/mobile2.jpg" alt="mobile" style="width:300px;" />
     <img align="center" src="./src/image/mobile1.jpg" alt="mobile" style="width:300px;" />
+    <img align="center" src="./src/image/mobile2.jpg" alt="mobile" style="width:300px;" />
   <kbd>
 </p>
 
